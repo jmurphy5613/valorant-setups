@@ -2,4 +2,23 @@
   height: 100vh;
   width: 100vw;
   background-color: #12131e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main-title {
+  font-family: 'Outfit';
+  color: white;
+  background: rgb(66,197,242);
+  background: linear-gradient(to right, #42c5f2 0%, #823f98 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.button {
+
 }
