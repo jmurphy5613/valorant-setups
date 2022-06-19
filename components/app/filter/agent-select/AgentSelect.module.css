@@ -9,6 +9,9 @@
     display: flex;
     justify-content: center;
 }
+.agent-select:hover {
+    cursor: pointer;
+}
 
 .underline {
     width: 50%;

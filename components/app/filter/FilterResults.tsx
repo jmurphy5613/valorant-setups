@@ -17,7 +17,7 @@ const FilterResults = () => {
             <div className={styles.map} onMouseLeave={e => setShowButton(false)} onMouseEnter={e => setShowButton(true)} style={{ backgroundImage: `url(${map}.webp)`, backgroundSize: 'cover' }}>
                 {showButton &&  <MapSelector /> }
             </div>
-            <AgentSelect />
+            <AgentSelect currentAgent={agent} setAgent={setAgent} />
         </div>
     )
 }
