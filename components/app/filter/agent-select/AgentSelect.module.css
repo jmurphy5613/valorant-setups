@@ -9,3 +9,15 @@
     display: flex;
     justify-content: center;
 }
+
+.underline {
+    width: 50%;
+    height: 2px;
+    background-color: rgb(254, 91, 119);
+}
+
+.agent-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
