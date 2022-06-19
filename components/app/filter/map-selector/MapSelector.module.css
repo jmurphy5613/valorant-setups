@@ -1,0 +1,11 @@
+.button {
+    background-color: transparent;
+    color: rgb(254, 91, 119);
+    border: 2px solid rgb(254, 91, 119);
+    height: 2rem;
+    width: 9rem;
+    border-radius: 5px;
+    font-family: 'Outfit';
+    position: absolute;
+    z-index: 999;
+}

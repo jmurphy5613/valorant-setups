@@ -7,8 +7,8 @@ const MapSelector = () => {
 
 
     return (
-        <Popup>
-            
+        <Popup trigger={ <button className={styles.button}>Change</button> }>
+
         </Popup>
     )
 }

@@ -9,7 +9,13 @@
 
 .map {
     height: 80%;
-    width: 20vw;
+    width: 25%;
     border-radius: 1rem;
     margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.map:hover {
+    -webkit-filter: blur(1px);
 }
