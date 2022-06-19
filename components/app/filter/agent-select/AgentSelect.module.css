@@ -1,0 +1,11 @@
+.agent {
+    height: 10vh;
+    width: auto;
+    margin: 1rem;
+}
+
+.agent-select {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
