@@ -1,10 +1,12 @@
+import styles from '../styles/App.module.css';
 
+import Logo from '../components/app/icon/Icon';
 
 
 const App = () => {
     return (
-        <div>
-
+        <div className={styles.root}>
+            <Logo />
         </div>
     )
 }
