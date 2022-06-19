@@ -17,6 +17,8 @@
     border-radius: 1rem;
     margin: 1rem;
     background-color: #3d3e47;
+    font-family: 'Outfit';
+    font-weight: 600;
 }
 .button:hover {
     cursor: pointer;
@@ -32,4 +34,6 @@
     border-radius: 1rem;
     margin: 1rem;
     background-color: rgb(254, 91, 119);
+    font-family: 'Outfit';
+    font-weight: 600;
 }
