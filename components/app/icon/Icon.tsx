@@ -3,7 +3,7 @@ import styles from './Icon.module.css';
 
 const Icon = () => {
     return (
-        <img src="/logo.png" className={styles.logo} />
+        <img src="/AZOL_LOGO_icon.svg" className={styles.logo} />
     )
 }
 
